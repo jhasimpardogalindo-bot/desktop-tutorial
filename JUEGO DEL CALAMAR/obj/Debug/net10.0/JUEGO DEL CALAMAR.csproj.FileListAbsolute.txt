@@ -1,0 +1,5 @@
+D:\GITHUB\desktop-tutorial\JUEGO DEL CALAMAR\obj\Debug\net10.0\JUEGO DEL CALAMAR.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\desktop-tutorial\JUEGO DEL CALAMAR\obj\Debug\net10.0\JUEGO DEL CALAMAR.AssemblyInfoInputs.cache
+D:\GITHUB\desktop-tutorial\JUEGO DEL CALAMAR\obj\Debug\net10.0\JUEGO DEL CALAMAR.AssemblyInfo.cs
+D:\GITHUB\desktop-tutorial\JUEGO DEL CALAMAR\obj\Debug\net10.0\JUEGO DEL CALAMAR.csproj.CoreCompileInputs.cache
+D:\GITHUB\desktop-tutorial\JUEGO DEL CALAMAR\obj\Debug\net10.0\JUEGO DEL CALAMAR.sourcelink.json
